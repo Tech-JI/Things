@@ -2,14 +2,22 @@
 
 ## Wksp
 
-- VSCode
-- Git
-- Vim
-- Latex
-- Bash
-- Emacs
-- Mechanical keyboard
-- Linux Install Party
+### Done
+
+| Name | Date |
+|------|----------|
+|Linux |2024-09-22|
+
+### Todo
+| Name | Planned Date |
+|------|----------|
+|Markdown & Typst|in holiday|
+|Git|FA|
+|VSCode|FA|
+|Bash|FA|
+|Vim（Emacs？）||
+|Mechanical keyboard|SP
+|Latex|?|
 
 ## Open-source project
 
