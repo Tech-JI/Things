@@ -11,12 +11,12 @@
 ### Todo
 | Name | Planned Date |
 |------|----------|
-|Markdown & Typst|in holiday|
+|Markdown & Typst|2024-10-06|
 |Git|FA|
 |VSCode|FA|
 |Bash|FA|
 |Vim（Emacs？）||
-|Mechanical keyboard|SP
+|Mechanical keyboard|SP|
 |Latex|?|
 
 ## Open-source project
