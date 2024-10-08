@@ -7,11 +7,11 @@
 | Name | Date |
 |------|----------|
 |Linux |2024-09-22|
+|Markdown & Typst|2024-10-06|
 
 ### Todo
 | Name | Planned Date |
 |------|----------|
-|Markdown & Typst|2024-10-06|
 |Git|FA|
 |VSCode|FA|
 |Bash|FA|
