@@ -8,16 +8,19 @@
 |------|----------|
 |Linux |2024-09-22|
 |Markdown & Typst|2024-10-06|
+|VSCode|2024-11-17|
+|LinuxII |2025-05-14|
+|Git|2025-05-18|
 
 ### Todo
 | Name | Planned Date |
 |------|----------|
-|Git|FA|
-|VSCode|FA|
-|Bash|FA|
+
+|Bash||
 |Vim（Emacs？）||
-|Mechanical keyboard|SP|
-|Latex|?|
+|Mechanical keyboard|June|
+|Reflow||
+
 
 ## Open-source project
 
