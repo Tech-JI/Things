@@ -15,7 +15,6 @@
 ### Todo
 | Name | Planned Date |
 |------|----------|
-
 |Bash||
 |Vim（Emacs？）||
 |Mechanical keyboard|June|
